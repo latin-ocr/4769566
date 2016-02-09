@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4769566_0000.png"; bbox 0 0 3384 4362; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 34 0 646 1">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 34 0 646 1">
+     <span class='ocr_line' id='line_1_1' title="bbox 34 0 646 1; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 34 0 646 1; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 934 2697 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 934 2697 2199">
+     <span class='ocr_line' id='line_1_2' title="bbox 168 934 2521 1237; baseline -0.001 -10"><span class='ocrx_word' id='word_1_2' title='bbox 168 1167 172 1169; x_wconf 54' lang='grc'><em>»</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 883 934 2521 1237; x_wconf 74' lang='grc' dir='ltr'>ΜΑΒΤΕΒ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 704 1389 2697 1694; baseline -0.001 -9"><span class='ocrx_word' id='word_1_4' title='bbox 704 1389 2697 1694; x_wconf 75' lang='grc' dir='ltr'>ΝΕΕΞΑΤΝΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 846 1852 2551 2148; baseline 0 -9"><span class='ocrx_word' id='word_1_5' title='bbox 846 1852 2551 2148; x_wconf 80' lang='grc' dir='ltr'>ΝυΝΙΒΕΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 805 2763 2572 3059">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 805 2659 2572 3089">
+     <span class='ocr_line' id='line_1_5' title="bbox 805 2763 2572 3059; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 805 2763 2572 3059; x_wconf 83' lang='lat'>00-269.22</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 3474 2 4339">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 3474 2 4339">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 3474 2 4339; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 3474 2 4339; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3382 391 3384 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3382 391 3384 1144">
+     <span class='ocr_line' id='line_1_7' title="bbox 3382 391 3384 1144; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 3382 391 3384 1144; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 4339 3083 4362">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 4339 3083 4362">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 4339 3083 4362; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 4339 2779 4362; x_wconf 68' lang='lat' dir='ltr'><strong><em>k—.———.———-———————..————WWW</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2797 4361 2802 4362; x_wconf 43' lang='lat' dir='ltr'><strong><em>W</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2817 4361 2872 4362; x_wconf 69' lang='lat' dir='ltr'><strong><em>WWW</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2918 4361 2947 4362; x_wconf 41' lang='lat' dir='ltr'><strong><em>W</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 3012 4361 3083 4362; x_wconf 40' lang='lat' dir='ltr'><strong><em>WWW</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
